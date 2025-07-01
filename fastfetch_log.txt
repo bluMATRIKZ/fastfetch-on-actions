@@ -1,0 +1,43 @@
+                             ....
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'[1G[19A[47Crunner@fv-az788-198
+[47C-------------------
+[47COS: Ubuntu 24.04.2 LTS x86_64
+[47CHost: Virtual Machine (7.0)
+[47CKernel: Linux 6.11.0-1015-azure
+[47CUptime: 4 mins
+[47CPackages: 1235 (dpkg)
+[47CShell: bash 5.2.21
+[47CDisplay (Virtual-1): 1024x768
+[47CTheme: Yaru [GTK3]
+[47CIcons: Yaru [GTK3]
+[47CCursor: Adwaita
+[47CTerminal: Runner.Worker
+[47CCPU: AMD EPYC 7763 64-Core (4) @ 3.25 GHz
+[47CGPU: Microsoft Hyper-V virtual VGA
+[47CMemory: 1.05 GiB / 15.62 GiB (7%)
+[47CSwap: 0 B / 4.00 GiB (0%)
+[47CDisk (/): 47.37 GiB / 71.61 GiB (66%) - ext4
+[47CDisk (/mnt): 4.00 GiB / 73.27 GiB (5%) - ext4
+[47CLocal IP (eth0): 10.1.0.30/16
+[47CLocale: C.UTF-8
+[47C
+[47C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[47C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
